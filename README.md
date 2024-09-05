@@ -40,8 +40,8 @@ To set up the environment, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vehicle-license-plate-detection.git
-   cd vehicle-license-plate-detection
+   git clone https://github.com/subu0106/Vehicle-Detection-and-License-Plate-Recognition.git
+   cd Vehicle-Detection-and-License-Plate-Recognition
    ```
 
 2. Install the required packages:
